@@ -1,0 +1,3 @@
+##File_folder3_4 modified in the remote repo. GIT will recognize any changes with the file but not the directory created. If we want the git
+###To track the Folder/Directory created in the REPO. It must be accompanied by at least 1 file otherwise, git don't care about 
+###The empty directories created inside the REPOSITORY
